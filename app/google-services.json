@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89294609364",
+    "firebase_url": "https://tutorlk-master.firebaseio.com",
+    "project_id": "tutorlk-master",
+    "storage_bucket": "tutorlk-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89294609364:android:b324005076395346901441",
+        "android_client_info": {
+          "package_name": "com.example.tutorlk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89294609364-6n6bvtv7fn51hnf6v63q92d01kqe37kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutorlk",
+            "certificate_hash": "37f7cfb42d0d6e85b95adf0334e37fd74dbeffe4"
+          }
+        },
+        {
+          "client_id": "89294609364-spe6opel2fkmj105efu4ui0fnhqpjpag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5vu-8aVK08eWq9cFsTnLCxcjVVC14Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89294609364-spe6opel2fkmj105efu4ui0fnhqpjpag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
